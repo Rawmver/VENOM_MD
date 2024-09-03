@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Hammy254/VENOM_MD";
 global.gurl = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
 global.website = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/f713683bc977188572040.jpg";
-global.devs = "254737991043";
-global.sudo = process.env.SUDO || "254737991043";
-global.owner = process.env.OWNER_NUMBER || "254737991043";
+global.devs = "923272573938";
+global.sudo = process.env.SUDO || "923272573938";
+global.owner = process.env.OWNER_NUMBER || "923272573938";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -49,11 +49,11 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
-  author: process.env.PACK_AUTHER || "〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄\n\n+254 737991043",
+  author: process.env.PACK_AUTHER || "〄༒LUXIFER➳ᴹᴿ᭄\n\n+923 2573938",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
-  botname: process.env.BOT_NAME || "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "⟠ 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄",
-  errorChat: process.env.ERROR_CHAT || "254737991043",
+  botname: process.env.BOT_NAME || "LUCIFER",
+  ownername: process.env.OWNER_NAME || "⟠ 〄༒LICIFER",
+  errorChat: process.env.ERROR_CHAT || "923082990885",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
