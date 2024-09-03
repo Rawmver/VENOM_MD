@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
+  caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 Lucifer",
   author: process.env.PACK_AUTHER || "〄༒LUXIFER➳ᴹᴿ᭄\n\n+923 2573938",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
   botname: process.env.BOT_NAME || "LUCIFER",
